@@ -13,6 +13,8 @@ This repository contains the R scripts used in the analysis for the paper:
 
 Data availability for these analysis are presented in the supplementary matterial of the paper (it may be needed to change file names and working directory). 
 
+Some lines explanations are in spanish.
+
 The scripts were written in R and use standard ecological and statistical packages. All required packages are loaded at the beginning of each script.
 
 You can install any missing packages using the following example command in R:
